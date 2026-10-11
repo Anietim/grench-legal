@@ -1,0 +1,8 @@
+{
+  "name": "grench-legal-cms",
+  "version": "1.0.0",
+  "description": "Grench Legal website with owner admin panel (no dependencies)",
+  "private": true,
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
